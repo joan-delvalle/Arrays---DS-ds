@@ -1,1 +1,1 @@
-# Arrays---DS-ds
+# Arrays---DS-ds This program reads an array of integers, reverses the order of its elements using the `Reverse()` method, and then prints the reversed array. It uses lists to handle the input and output efficiently.
